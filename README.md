@@ -1,5 +1,3 @@
-### Abubakr Omar 
-
 ## Occupation 
 AI Engineer 
 
